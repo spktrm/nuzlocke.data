@@ -7,7 +7,7 @@ Cherrygrove City|tentacool,tentacruel,exeggcute,hoothoot,spinarak,pineco,taillow
 Route 30|caterpie,metapod,pidgey,poliwag,poliwhirl,exeggcute,magikarp,hoothoot,spinarak,pineco,linoone,whismur,bidoof,buizel
 Route 31|caterpie,metapod,pidgey,rattata,poliwag,poliwhirl,bellsprout,exeggcute,magikarp,hoothoot,spinarak,pineco,linoone,whismur,bidoof,buizel
 Dark Cave|zubat,geodude,goldeen,seaking,magikarp,dunsparce,makuhita,absol,chingling,bronzor
-Violet City|poliwag,poliwhirl,onix,exeggcute,magikarp,hoothoot,pineco,whiscash
+Violet City|poliwag,poliwhirl,onix,exeggcute,magikarp,hoothoot,pineco,whiscash,togepi
 Sprout Tower|rattata,gastly,zigzagoon,meditite,spinda,chatot
 --Sprout Tower|li|mini-boss|Elder Li
 --Violet City Gym|1|gym-leader|Falkner
